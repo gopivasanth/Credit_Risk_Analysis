@@ -17,7 +17,7 @@ The purpose of this analysis is to evaluate performance for each model and recom
 ### RandomOverSampler
 - balanced accuracy score : 67.4%
 - precision : 1%
-- recall : 71%
+- recall : 74%
 
 ![RandomOverSampler](https://github.com/gopivasanth/Credit_Risk_Analysis/blob/4a34012e503d64fd0a626d63e66ea9f54c1fed92/Images/RandomOverSampler.png)
 
@@ -40,7 +40,7 @@ The purpose of this analysis is to evaluate performance for each model and recom
 - precision : 1%
 - recall : 72%
 
-![SMOTEENN](https://github.com/gopivasanth/Credit_Risk_Analysis/blob/4a34012e503d64fd0a626d63e66ea9f54c1fed92/Images/ClusterCentroids.png)
+![SMOTEENN](https://github.com/gopivasanth/Credit_Risk_Analysis/blob/bc75d86cd898465747c806fbfa24da98e468a7de/Images/SMOTEEN.png)
 
 ### BalancedRandomForestClassifier
 - balanced accuracy score : 78.9%
